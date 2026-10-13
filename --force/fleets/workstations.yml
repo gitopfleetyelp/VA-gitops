@@ -193,3 +193,8 @@ software:
 
   app_store_apps: # Apps to install via VPP from the macOS App Store, if any
     # …
+labels:
+  - name: macOS 27 beta testers
+    description: Hosts enrolled in beta
+    label_membership_type: manual
+    hosts:
