@@ -4,5 +4,8 @@
   criteria:
     vital: end_user_idp_department
     value: Engineering
-  
+- name: uptime over 30 days
+  platform: darwin
+  description: Computers up over 30 days
+  query: SELECT 1 from uptime where days > 30
 
