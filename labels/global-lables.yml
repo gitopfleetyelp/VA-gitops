@@ -8,4 +8,8 @@
   platform: darwin
   description: Computers up over 30 days
   query: SELECT 1 from uptime where days > 30
+- name: uptime under 30 days
+  platform: darwin
+  description: Computers up over 30 days
+  query: SELECT 1 from uptime where days < 30
 
