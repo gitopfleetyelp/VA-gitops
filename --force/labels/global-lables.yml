@@ -1,0 +1,8 @@
+- name: Department - Engineering
+  description: hosts belonging to nerds
+  label_mempbership_type: host_vitals
+  criteria:
+    vital: end_user_idp_department
+    value: Engineering
+  
+
