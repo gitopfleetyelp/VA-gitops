@@ -12,6 +12,8 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 org_settings:
+  fleet_desktop:
+    transparency_url: http://porkchopgit.com
   org_info:
     ###########################################################
     # The name of your organization is displayed to end users
@@ -21,7 +23,7 @@ org_settings:
     # Read more:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
-    org_name: porkchop
+    org_name: porkchop-applesauce
 
   server_settings:
     ###########################################################
