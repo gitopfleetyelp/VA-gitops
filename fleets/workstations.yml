@@ -201,7 +201,7 @@ labels:
     hosts:
 settings:
   webhook_settings:
-    failing_policies_webook:
+    failing_policies_webhook:
       enable_failing_policies_webhook: true
       destination_url: https://webhook.site/d37c22d2-cca8-45a5-846b-0c6eced7f46a
       host_batch_size: 0
