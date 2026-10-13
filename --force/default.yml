@@ -14,6 +14,11 @@
 org_settings:
   fleet_desktop:
     transparency_url: http://porkchopgit.com
+  webhook_settings:
+    activities_webhook:
+      enable_activities_webhook: true
+      destination_url: https://webhook.site/d37c22d2-cca8-45a5-846b-0c6eced7f46a
+
   org_info:
     ###########################################################
     # The name of your organization is displayed to end users
